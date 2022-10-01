@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Code-kumar/Code-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,16 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there 👋, I'm Naveen 
-#### Design & Development 
 ![Design & Development ](https://github.com/Code-kumar/Code-kumar/blob/b9fc485ccb9c2b70b75c4586cb242fa873831388/Banner-img.jpg)
+
+# Naveen kumar
 
 I'm Naveen, I mostly do UI/UX Design and Front end development and working as a Freelancer, I really enjoy Learning Design thinking & Interaction design as well as in 
 development side I work with core tech like HTML/CSS, and JavaScript but now I see myself more interested in React and Material design (MUI).
 You can check out my Design work here on [Dribbble](https://dribbble.com/Naveen_design)
 
-Skills: HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS 
+
+## Skills & Experience
+🎭 UI/UX Design: IA, Wireframing, User Flow, Prototyping, Mockups
+💻 HTML, CSS, JS, JQUERY, BOOTSTRAP, SASS 
 
 
 - 🔭 I’m currently working on Freelance projects 
