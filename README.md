@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Naveen 
 #### Design & Development 
-![Design & Development ](https://github.com/Code-kumar/Code-kumar/blob/c54064f68dde1c60dc999a31f1c32498247bd176/1623521988838.jpg)
+![Design & Development ](https://github.com/Code-kumar/Code-kumar/blob/b9fc485ccb9c2b70b75c4586cb242fa873831388/Banner-img.jpg)
 
 I'm Naveen, I mostly do UI/UX Design and Front end development and working as a Freelancer, I really enjoy Learning Design thinking & Interaction design as well as in 
 development side I work with core tech like HTML/CSS, and JavaScript but now I see myself more interested in React and Material design (MUI).
