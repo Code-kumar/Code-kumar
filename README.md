@@ -32,5 +32,5 @@ You can check out my Design work here on [Dribbble](https://dribbble.com/Naveen_
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Code-kumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/naveen-design/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='40'>](https://dribbble.com/Naveen_design)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/Naveen_design)  
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-kumar&show_icons=true&theme=github_dark)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-kumar)](https://github.com/anuraghazra/github-readme-stats)
