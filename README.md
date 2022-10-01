@@ -23,7 +23,7 @@ You can check out my Design work here on [Dribbble](https://dribbble.com/Naveen_
 
 ## Skills & Experience
 🎭 UI/UX Design: IA, Wireframing, User Flow, Prototyping, Mockups <br />
-💻 HTML, CSS, JS, JQUERY, BOOTSTRAP, SASS 
+💻 HTML, CSS, Js, Jquery, Bootstrap, Sass
 
 
 - 🔭 I’m currently working on Freelance projects 
