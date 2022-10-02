@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 # Naveen kumar
 
-I'm Naveen, I mostly do UI/UX Design and Front end development and working as a Freelancer, I really enjoy Learning Design thinking & Interaction design as well as in 
-development side I work with core tech like HTML/CSS, and JavaScript but now I see myself more interested in React and Material design (MUI).
+I'm Naveen, I mostly do UI/UX Design and Front end development and currently working as a Freelancer, I really enjoy Learning Design thinking & Interaction design as well as on the development side I work with core tech like HTML/CSS, and JavaScript but now I see myself more interested in React and Material design (MUI).
 
 
 ## Skills & Experience
